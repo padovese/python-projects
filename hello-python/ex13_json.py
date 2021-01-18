@@ -23,3 +23,7 @@ print json['non_refundable_fees']
 print json['non_refundable_fees']['fee1']
 
 print len(json)
+
+json["new_field"] = "some value"
+
+print json
