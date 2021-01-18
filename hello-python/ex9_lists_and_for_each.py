@@ -12,3 +12,5 @@ for fruit in fruits:
 
 for i in range(1, 3):
     print i
+
+print fruits[0]
