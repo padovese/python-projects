@@ -1,3 +1,5 @@
+#list: ordered, mutable, allow duplicate elements
+
 #instantiate a list
 myList = ["banana", "apple", "watermelon"]
 print(myList)
